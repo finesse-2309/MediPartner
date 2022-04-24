@@ -1,11 +1,30 @@
 body{
-    background-color: #004d40;
+    background-color: #B9F8D3;
 }
 
+.handle{
+    color:white;
+    
+
+}
+.handle:hover{
+    color: #00AFC1;
+}
 .col{
      margin:center ; 
      /* margin-left: 200px; */
     
 }
 
+a{
+    color:white;
+}
+i {
+    padding:10px;
+}
+
+.social {
+    padding: 0 auto 0 auto;
+    margin:0 auto 0 auto;
+}
 
